@@ -79,7 +79,7 @@ export const Experience = () => {
               <BsPatchCheckFill className='experience_details-icon'/>
               <div>
                 <h4>Python</h4>
-                <small className='text-light'>Básico</small>
+                <small className='text-light'>Intermedio</small>
               </div>
             </article>
 
